@@ -8,7 +8,7 @@ fi
 export ZSH="${HOME}/.oh-my-zsh"
 
 # Theme.
-ZSH_THEME="~/.oh-my-zsh/custom/themes/powerlevel10k"
+ZSH_THEME="powerlevel10k/powerlevel10k"
 export SPACESHIP_DIR_TRUNC=0
 
 # Plugins.
